@@ -1,0 +1,26 @@
+.inner-header{
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.inner-header:before{z-index:0;}
+.course_features_point li:before{content: "\f0a4"; display:inline-block;font-family: fontawesome; margin-right:5px; color:#daa106}
+.course__details_block.courses table{
+	
+    border: 1px solid #dee2e6;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-collapse: collapse;
+}
+.course__details_block.courses table td, .course__details_block.courses table th {
+    padding: .75rem;
+	border: 1px solid #dee2e6;
+	text-align:left;
+}
+.course__details_block.courses table  thead{
+	background: #daa106;
+	color:#fff;
+}
+.course-list {display:flex}
+.course-list>div {display:flex}

@@ -1,0 +1,48 @@
+<!--Course Section section Here-->
+		<section class="course-section__block padding ptb-xs-60">
+		      <div class="container">
+			  <div class="row pb-30">
+						<div class="col-sm-6 mb-20">
+							<h2>Popular Courses</h2>
+							
+						</div>
+						<!--<div class="col-sm-6 mb-20 text-right text-xs-left">
+							<a href="#" class="more_btn__block mt-0">More <i class="fa fa-angle-right"></i></a>
+						</div>-->
+					</div>
+					
+			  <div class="row pb-30 course-list">
+			  {% for courses in site.courses limit:4	 %}
+				<div class="col-md-3 col-sm-6 mb-30">
+					<div class="courses-block img-scale">
+						   
+							<figure class="img__block">
+								<img class="img-responsive" src="{{courses.headerImage}}" alt="{{courses.title}}">
+							   
+							</figure>
+							<div class="courses-content__block">
+							<!--<div class="class_time">Classes   <i class="fa fa-clock-o"></i> 10 am - 11 am</div>-->
+								<h3 class="item-title"><a href="{{ courses.permalink }}">{{ courses.title }}</a></h3>
+								<p class="item-content">Rmply dummy text printing setting industry it’s free demo.</p>
+								<!--<ul class="courses-info">
+								
+									<li class="courses-info__price"><strong class="color">$20.00  </strong></li>
+									<li>
+									   <span><i class="fa fa-users"></i> 200</span>
+										<span class="heart_icon"> <i class="fa fa-heart-o"></i></span>
+									   </li>
+									
+								</ul>-->
+						   
+						</div>
+					</div>
+			</div>
+				
+				
+			  {% endfor %}
+			  
+		</div>
+		
+		</div>
+		</section>
+		<!--Course Section section End-->

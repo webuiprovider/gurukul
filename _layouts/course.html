@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}	
+	{% include header-banner.html %}
+	  <!-- Intro Section --> 
+	<section class="course-section__block padding ptb-xs-60">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-9 mb-30">
+					<div class="course__details_block courses">						
+						<div class="course__text_details ">
+							
+							{{ content}}
+						</div>	
+					</div>	
+				</div>
+				<!--Sidebar-->
+				<div class="col-sm-3 mt-sm-60">          
+					<div class="sidebar-widget">
+						<h4>ALL COURSES</h4>            
+						<ul class="categories">
+							{% for courses in site.courses %}
+								<li><a href="{{ courses.permalink }}"><i class="fa fa-chevron-right"></i> {{ courses.title }}</a></li>
+							 {% endfor %}
+						</ul>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</section>
+	
+	
+    {% include blogs.html %}
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
+
+</html>

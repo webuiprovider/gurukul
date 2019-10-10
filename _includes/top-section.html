@@ -1,0 +1,23 @@
+<!--top Section start Here-->
+	<section class="top_section__block">
+		<div class="container">
+			<div class="row">
+				{% for items in page.highlight.list %}			
+					<div class="col-md-4 col-sm-12">
+						<div class="single_top__block text-center">
+						 <div class="icon-box__block">
+								<i class="fa {{items.icon}} color"></i>
+							</div>
+						   <div class="single_text__block">
+						   
+							<h2>{{items.heading}}</h2>
+							<p>{{items.info}}</p>
+						   </div>
+						</div>
+					</div>
+				{% endfor %}
+		   
+			</div>
+		</div>
+	</section>
+<!--top Section End Here-->

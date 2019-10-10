@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+	{% if page.slider.enable %}
+	  {% include main-banner.html %}
+	{% endif %}
+	{% if page.highlight.enable %}
+	  {% include top-section.html %}
+	{% endif %}	
+	{% if page.welcome.enable %}
+	  {% include welcome-section.html %}
+	{% endif %}
+	{% if page.why.enable %}
+	  {% include why.html %}
+	{% endif %}
+	{% if page.course.enable %}
+	  {% include course.html %}
+	{% endif %}
+	{% if page.course.enable %}
+	   {% include blogs.html %}
+	{% endif %}
+	{% if page.course.enable %}
+	   {% include events.html %}
+	{% endif %}
+    
+    
+    
+   
+   
+    {% include footer-form.html %}
+
+    <!--<div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+-->
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
+
+</html>

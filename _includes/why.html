@@ -1,0 +1,27 @@
+<!--why we use section Here-->
+		<section class="plaing_wrap__block padding ptb-xs-60">
+		      <div class="container">
+			  <div class="row pb-30 text-center">
+						<div class="col-sm-12 mb-20">
+							<h2>{{site.data.why-edugate.heading}}</h2>
+							<span class="b-line"></span>
+						</div>
+					</div>
+		          <div class="row">
+					{% for why in site.data.why-edugate.list %}
+		              <div class="col-sm-6">
+		                  <div class="single_plan__block block_bg1 mb-30 why">
+                                <div class="plan-content-box">
+                                  <h3>{{ why.heading }}</h3>
+                                  <p>{{ why.info }}</p>
+                                  <a href="{{ why.linkUrl }}" class="more_btn__block">{{ why.linkText }} <i class="fa fa-angle-right"></i></a>
+		                      </div>
+							  <div class="imgside" style="background:url({{ why.image }})"></div>
+		                  </div>
+		              </div>
+					  {% endfor %}
+		              
+		          </div>
+		      </div>
+		  </section>
+		<!--why we use section End-->

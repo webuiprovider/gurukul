@@ -1,0 +1,60 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
+  
+  
+  <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+  
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  
+	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+
+       
+	   <!-- Favicone Icon -->
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,600,700,800%7CLato:300,400,700" rel="stylesheet" type="text/css">
+        <link href="{{ "assets/css/bootstrap.css" | relative_url }}" rel="stylesheet" type="text/css">
+		<link href="{{ "assets/css/font-awesome.css" | relative_url }}" rel="stylesheet" type="text/css">
+        <link href="{{ "assets/css/ionicons.css" | relative_url }}" rel="stylesheet" type="text/css">
+        <!--Light box-->
+		<link href="{{ "assets/css/jquery.fancybox.css" | relative_url }}" rel="stylesheet" type="text/css">
+        <!-- carousel -->
+        <!-- PrettyPhoto Popup -->
+		<link href="{{ "assets/css/prettyPhoto.css" | relative_url }}" rel="stylesheet" />
+        <link href="{{ "assets/css/plugin/owl.carousel.css" | relative_url }}" rel="stylesheet" type="text/css">
+		<!--Main Slider-->
+		<link href="{{ "assets/css/settings.css" | relative_url }}" type="text/css" rel="stylesheet" media="screen">
+		<link href="{{ "assets/css/layers.css" | relative_url }}" type="text/css" rel="stylesheet" media="screen">
+		<link href="{{ "assets/css/style.css" | relative_url }}" rel="stylesheet">
+		 <link href="{{ "assets/css/bootsnav.css" | relative_url }}" rel="stylesheet">
+		 <link href="{{ "/assets/css/index1.css" | relative_url }}" rel="stylesheet"  >
+		 <link href="{{ "/assets/css/custom.css" | relative_url }}" rel="stylesheet"  >
+		 {% include open-graph.html %}
+		 {% include twitter-card.html %}
+		 {% seo %}
+  
+</head>
+    <body>
+		<!--loader-->
+<div id="preloader">
+  <div class="sk-circle">
+    <div class="sk-circle1 sk-child"></div>
+    <div class="sk-circle2 sk-child"></div>
+    <div class="sk-circle3 sk-child"></div>
+    <div class="sk-circle4 sk-child"></div>
+    <div class="sk-circle5 sk-child"></div>
+    <div class="sk-circle6 sk-child"></div>
+    <div class="sk-circle7 sk-child"></div>
+    <div class="sk-circle8 sk-child"></div>
+    <div class="sk-circle9 sk-child"></div>
+    <div class="sk-circle10 sk-child"></div>
+    <div class="sk-circle11 sk-child"></div>
+    <div class="sk-circle12 sk-child"></div>
+  </div>
+</div>
+<!--loader--> 
