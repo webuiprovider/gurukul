@@ -1,0 +1,117 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Your awesome title
+logo: "assets/images/gurukul.png"
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# permalink: /:title/
+
+welcome_text: "Welcome to GuruKul Intenational"
+address: "SCF No. 65, 2nd Floor,
+<span>Phase 3B2, SAS Nagar Mohali.</span>"
+phone: "8054231665 <br> 172-4184636"
+timeing: "Monday-Satuarday, 7am-9pm <br> Sunday Closed"
+
+
+### Site Navigations
+navigations: 
+ - 
+  title: "Home"
+  url: ""
+ - 
+  title: "About"
+  url: ""
+  childNav: "true"
+  child:
+   - name: "Abouts Us"
+     link: "/about/"
+   - name: "Why Us"
+     link: "/why"
+ - 
+  title: "Course"
+  url: ""
+  childNav: "true"
+  child:
+   - name: "CD-IELTS"
+     link: "/cd-ielts"
+   - name: "Celpip"
+     link: "/celpip"
+   - name: "IELTS"
+     link: "/ielts"
+   - name: "PTE"
+     link: "/pte"
+   - name: "Interview Preparations"
+     link: "/interview-preparations"
+   - name: "Spoken English"
+     link: "/spoken-english"
+ - 
+  title: "Gallery"
+  url: "gallery/"
+ - 
+  title: "BLOG"
+  url: "blog/"
+ - 
+  title: "Contact Us"
+  url: "/contact-us"
+
+
+# Build settings
+markdown: kramdown
+theme: 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  
+
+collections:
+  authors:
+    output: true
+  courses:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: inner
+  - scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: course
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
