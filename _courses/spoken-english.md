@@ -3,6 +3,21 @@ title: Spoken English
 headerImage: /assets/images/gurukul/english.jpg
 permalink: "spoken-english"
 layout: "course"
+why:
+  enable: false
+  background: "light"
+course:
+  enable: false
+  background: "light"
+blogs:
+  enable: false
+  background: "dark"
+events:
+  enable: false
+  background: "light"
+footer-form:
+  enable: false
+
 ---
 
 ![CELPIP)](assets/images/gurukul/english-2.jpg)

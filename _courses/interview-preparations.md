@@ -3,6 +3,20 @@ title: Interview Preparations
 headerImage: /assets/images/gurukul/team-students.jpg
 permalink: "interview-preparations"
 layout: "course"
+why:
+  enable: false
+  background: "light"
+course:
+  enable: false
+  background: "light"
+blogs:
+  enable: false
+  background: "dark"
+events:
+  enable: false
+  background: "light"
+footer-form:
+  enable: false
 ---
 
 ![CELPIP)](assets/images/gurukul/interview.jpg)

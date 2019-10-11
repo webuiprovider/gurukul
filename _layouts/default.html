@@ -20,18 +20,17 @@
 	{% if page.course.enable %}
 	  {% include course.html %}
 	{% endif %}
-	{% if page.course.enable %}
+	{% if page.blogs.enable %}
 	   {% include blogs.html %}
 	{% endif %}
-	{% if page.course.enable %}
+	{% if page.events.enable %}
 	   {% include events.html %}
 	{% endif %}
-    
-    
-    
+	{% if page.footer-form.enable %}
+	   {% include footer-form.html %}
+	{% endif %}
    
-   
-    {% include footer-form.html %}
+    
 
     <!--<div class="page-content">
       <div class="wrapper">

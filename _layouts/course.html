@@ -33,8 +33,21 @@
 		</div>
 	</section>
 	
-	
-    {% include blogs.html %}
+	  {% if page.course.enable %}
+	   {% include course.html %}
+	{% endif %}
+	 {% if page.why.enable %}
+	   {% include why.html %}
+	{% endif %}
+	{% if page.blogs.enable %}
+	   {% include blogs.html %}
+	{% endif %}
+	{% if page.events.enable %}
+	   {% include events.html %}
+	{% endif %}
+	{% if page.footer-form.enable %}
+	   {% include footer-form.html %}
+	{% endif %}
     {% include footer.html %}
     {% include js.html %}
   </body>

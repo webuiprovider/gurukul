@@ -8,18 +8,29 @@
 	{% include header-banner.html %}
 	  <!-- Intro Section -->
 	  <div class="faq ptb-80 ptb-xs-60">
-		  <div class="container"> 
-		
-		
-			{{ content }}
-			
-			
+		  <div class="container"> 		
+			{% if page.url == "/gallery/" %}
+				{% include gallery.html %}
+			{% else %}			
+				{{ content }}
+			{% endif %}
 		  </div>
-	   
 	  </div> 
-    {% include events.html %}
-    {% include blogs.html %}
-    {% include footer-form.html %}
+	  {% if page.course.enable %}
+	   {% include course.html %}
+	{% endif %}
+	 {% if page.why.enable %}
+	   {% include why.html %}
+	{% endif %}
+	{% if page.blogs.enable %}
+	   {% include blogs.html %}
+	{% endif %}
+	{% if page.events.enable %}
+	   {% include events.html %}
+	{% endif %}
+	{% if page.footer-form.enable %}
+	   {% include footer-form.html %}
+	{% endif %}
 
     <!--<div class="page-content">
       <div class="wrapper">

@@ -4,6 +4,20 @@ headline: Zebras are the best!
 headerImage: /assets/images/gurukul/3.jpg
 permalink: "cd-ielts"
 layout: "course"
+why:
+  enable: false
+  background: "light"
+course:
+  enable: false
+  background: "light"
+blogs:
+  enable: false
+  background: "dark"
+events:
+  enable: false
+  background: "light"
+footer-form:
+  enable: false
 ---
 
 ![Computer-delivered IELTS (CD IELTS)](assets/images/gurukul/4.jpg)

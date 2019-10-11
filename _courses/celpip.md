@@ -3,6 +3,20 @@ title: CELPIP
 headerImage: /assets/images/gurukul/2.jpg
 permalink: "celpip"
 layout: "course"
+why:
+  enable: false
+  background: "light"
+course:
+  enable: false
+  background: "light"
+blogs:
+  enable: false
+  background: "dark"
+events:
+  enable: false
+  background: "light"
+footer-form:
+  enable: false
 ---
 
 ![CELPIP)](assets/images/gurukul/7.jpg)

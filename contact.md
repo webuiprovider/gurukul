@@ -1,22 +1,8 @@
 ---
-layout: inner
-title: Why US
+layout: contact
+title: Contact US
 headerImage: /assets/images/gurukul/inner.jpg
-permalink: /why/
-why:
-  enable: false
-  background: "light"
-course:
-  enable: false
-  background: "light"
-blogs:
-  enable: false
-  background: "dark"
-events:
-  enable: false
-  background: "light"
-footer-form:
-  enable: false
+permalink: /contact/
 ---
 
 ## WHY <span>GURUKUL</span> INTERNATIONAL

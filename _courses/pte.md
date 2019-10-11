@@ -3,6 +3,20 @@ title: About PTE (Pearson Test for English)
 headerImage: /assets/images/gurukul/6.jpg
 permalink: "pte"
 layout: "course"
+why:
+  enable: false
+  background: "light"
+course:
+  enable: false
+  background: "light"
+blogs:
+  enable: false
+  background: "dark"
+events:
+  enable: false
+  background: "light"
+footer-form:
+  enable: false
 ---
 
 ![CELPIP)](assets/images/gurukul/5.jpg)

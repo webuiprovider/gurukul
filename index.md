@@ -37,6 +37,16 @@ welcome:
   info: "Tmply dummy text of the printing and typesetting industry. Lorem Ipsum has been theindustry's standard dummy text ever since the 1500s, when an unknown printer took."
 why:
   enable: true
+  background: "light"
 course:
+  enable: true
+  background: "dark"
+blogs:
+  enable: true
+  background: "light"
+events:
+  enable: true
+  background: "dark"
+footer-form:
   enable: true
 ---

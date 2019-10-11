@@ -3,6 +3,20 @@ layout: inner
 title: ABOUT US
 headerImage: /assets/images/gurukul/inner.jpg
 permalink: /about/
+why:
+  enable: false
+  background: "light"
+course:
+  enable: false
+  background: "light"
+blogs:
+  enable: false
+  background: "dark"
+events:
+  enable: false
+  background: "light"
+footer-form:
+  enable: false
 ---
 
 ## ABOUT <span>GURUKUL</span> INTERNATIONAL
