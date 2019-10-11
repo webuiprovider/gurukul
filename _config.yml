@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: GuruKul Intenational
 logo: "assets/images/gurukul.png"
-email: your-email@example.com
+email: gurukulinternational3b2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -27,11 +27,11 @@ github_username:  jekyll
 
 # permalink: /:title/
 
-welcome_text: "Welcome to GuruKul Intenational"
+welcome_text: "Punjab Government Approved: License No. 140/MC-2 "
 address: "SCF No. 65, 2nd Floor,
 <span>Phase 3B2, SAS Nagar Mohali.</span>"
-phone: "8054231665 <br> 172-4184636"
-timeing: "Monday-Satuarday, 7am-9pm <br> Sunday Closed"
+phone: "8054231665 <br> 9023418774 <br> 172-4184636"
+timeing: "Monday-Saturday, 7am-9pm <br> Sunday Closed"
 
 
 ### Site Navigations
@@ -46,7 +46,7 @@ navigations:
   child:
    - name: "Abouts Us"
      link: "/about/"
-   - name: "Why Us"
+   - name: "Why Gurukul"
      link: "/why"
  - 
   title: "Course"

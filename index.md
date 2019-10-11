@@ -39,14 +39,14 @@ why:
   enable: true
   background: "light"
 course:
-  enable: true
+  enable: false
   background: "dark"
 blogs:
   enable: true
-  background: "light"
+  background: "dark"
 events:
   enable: true
-  background: "dark"
+  background: "light"
 footer-form:
   enable: true
 ---
