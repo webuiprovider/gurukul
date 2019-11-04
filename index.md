@@ -44,7 +44,13 @@ course:
 blogs:
   enable: true
   background: "dark"
+testimonial:
+  enable: true
+  background: "dark"
 events:
+  enable: true
+  background: "light"
+partner:
   enable: true
   background: "light"
 footer-form:

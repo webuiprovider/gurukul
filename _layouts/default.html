@@ -17,6 +17,9 @@
 	{% if page.why.enable %}
 	  {% include why.html %}
 	{% endif %}
+	{% if page.testimonial.enable %}
+	  {% include testimonial.html %}
+	{% endif %}
 	{% if page.course.enable %}
 	  {% include course.html %}
 	{% endif %}
@@ -25,6 +28,9 @@
 	{% endif %}
 	{% if page.events.enable %}
 	   {% include events.html %}
+	{% endif %}
+	{% if page.partner.enable %}
+	   {% include partner.html %}
 	{% endif %}
 	{% if page.footer-form.enable %}
 	   {% include footer-form.html %}
