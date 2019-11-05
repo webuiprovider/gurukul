@@ -6,6 +6,7 @@ backend:
   accept_roles: #optional - accepts all users if left out
     - admin
     - editor
+    
 media_folder: 'assets/uploads'
 
 publish_mode: editorial_workflow
