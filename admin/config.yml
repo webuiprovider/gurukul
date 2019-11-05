@@ -9,7 +9,8 @@ collections:
     label: "Settings"
     delete: false # Prevent users from deleting documents in this collection
     editor:
-      preview: false
+      preview: false    
+    create: true
     files:
       - name: "Global Settings"
         label: "Site Settings"
