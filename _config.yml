@@ -28,9 +28,13 @@ github_username:  jekyll
 # permalink: /:title/
 
 welcome_text: "Punjab Government Approved: License No. 140/MC-2 "
-address: "SCF No. 65, 2nd Floor,
+address: "SCF 65, 2nd Floor, Near Subway,
 <span>Phase 3B2, SAS Nagar Mohali.</span>"
-phone: "8054231665 <br> 9023418774 <br> 172-4184636"
+phone:
+  - number: 8054231665
+    icon: "fa fa-whatsapp"
+  - number: 9023418774
+    icon: "fa fa-phone"
 timeing: "Monday-Saturday, 7am-9pm <br> Sunday Closed"
 
 
@@ -63,7 +67,7 @@ navigations:
      link: "/ielts-ukvi"
    - name: "Celpip"
      link: "/celpip"
-   - name: "Caelce"
+   - name: "Cael ce"
      link: "/Caelce"
    - name: "Spoken English"
      link: "/spoken-english"

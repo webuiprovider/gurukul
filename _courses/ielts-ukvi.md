@@ -1,5 +1,5 @@
 ---
-title: CELPIP
+title: IELTS UKVI
 headerImage: /assets/images/gurukul/2.jpg
 permalink: "ielts-ukvi"
 layout: "course"

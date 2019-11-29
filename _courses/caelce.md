@@ -1,5 +1,5 @@
 ---
-title: CELPIP
+title: CAEL CE
 headerImage: /assets/images/gurukul/2.jpg
 permalink: "caelce"
 layout: "course"

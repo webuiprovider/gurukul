@@ -15,7 +15,7 @@ slider:
    - heading: "highly <span>motivated</span>, <span>experienced</span> & <span>dedicated</span> team"
      subText: "Individual personalized courses"
      image: "assets/images/gurukul/teenager-student.jpg"
-     info: "Weekly improvement sessions for grammar, sentence formation, workouts on lacking    	points."
+     info: ""
      buttonText: "read more"
      buttonUrl: "#"
 highlight:
@@ -32,9 +32,9 @@ highlight:
      info: "We are experts in this industry with over 100 years of experience. What that"
 welcome:
   enable: true
-  heading: "Welcome To Education"
+  heading: "Welcome To Gurukul International"
   image: "assets/images/gurukul/welcome.jpg"
-  info: "Tmply dummy text of the printing and typesetting industry. Lorem Ipsum has been theindustry's standard dummy text ever since the 1500s, when an unknown printer took."
+  info: "The Best Lanugauge Institute with expertise in IELTS, PTE, CELPIP & number of other such language courses. Our very experienced and expert  trainers help you to excel in English language so as to achieve the desired scores."
 why:
   enable: true
   background: "light"
