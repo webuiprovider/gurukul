@@ -33,7 +33,7 @@ highlight:
 welcome:
   enable: true
   heading: "Welcome To Gurukul International"
-  image: "assets/images/gurukul/welcome.jpg"
+  image: "assets/images/gurukul/welcome-to-education.jpg"
   info: "The Best Lanugauge Institute with expertise in IELTS, PTE, CELPIP & number of other such language courses. Our very experienced and expert  trainers help you to excel in English language so as to achieve the desired scores."
 why:
   enable: true
