@@ -3,6 +3,7 @@ title: CELPIP
 headerImage: /assets/images/gurukul/2.jpg
 permalink: "celpip"
 layout: "course"
+info: "CELPIP Coaching in Mohali, We at Gurukul International Provide Coaching For CELPIP Test. “CELPIP  expands as Canadian English Language Proficiency Index Program.” It is also one kind of English proficiency test which is used to judge the proficiency level of the English language of the persons who want to go to Canada for immigration purpose. The CELPIP test is developed in Canada at Paragon Testing Enterprise, a subsidiary of The University of British Columbia."
 why:
   enable: false
   background: "light"

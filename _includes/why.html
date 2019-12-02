@@ -8,15 +8,15 @@
 						</div>
 					</div>
 		          <div class="row">
-					{% for why in site.data.why-edugate.list %}
+					{% for why in site.courses | limit : 4 %}
 		              <div class="col-sm-6">
 		                  <div class="single_plan__block block_bg1 mb-30 why">
                                 <div class="plan-content-box">
-                                  <h3>{{ why.heading }}</h3>
-                                  <p>{{ why.info }}</p>
-                                  <a href="{{ why.linkUrl }}" class="more_btn__block">{{ why.linkText }} <i class="fa fa-angle-right"></i></a>
+                                  <h3>{{ why.title }}</h3>
+                                  <p>{{ why.info | truncate: 150 }}</p>
+                                  <a href="{{ why.permalink }}" class="more_btn__block">Read more <i class="fa fa-angle-right"></i></a>
 		                      </div>
-							  <div class="imgside" style="background:url({{ why.image }})"></div>
+							  <div class="imgside" style="background:url({{ why.headerImage }})"></div>
 		                  </div>
 		              </div>
 					  {% endfor %}

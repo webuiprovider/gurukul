@@ -3,6 +3,7 @@ title: CAEL CE
 headerImage: /assets/images/gurukul/2.jpg
 permalink: "caelce"
 layout: "course"
+info: "CAEL CE is one of the best tools for identifying students with the right English skills for academic success. It provides an authentic representation of language use in a Canadian academic context. Test takers read articles, listen to a lecture, answer questions, and write a short essay, as they would be expected to do in a first-year Canadian university or college classroom."
 why:
   enable: false
   background: "light"

@@ -3,6 +3,7 @@ title: IELTS
 headerImage: /assets/images/gurukul/3.jpg
 permalink: "ielts"
 layout: "course"
+info: "Basically IELTS defines as the **International English Language Testing System**. IELTS is a best course for improving your communication skills like: Listening, Speaking, Reading, Writing. **IELTS** is primarily managed by the University of Cambridge ESOL Examinations (Cambridge ESOL), British Council and IDP: IELTS Australia."
 why:
   enable: false
   background: "light"
