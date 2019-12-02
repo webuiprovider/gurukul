@@ -19,7 +19,7 @@ slider:
      buttonText: "read more"
      buttonUrl: "#"
 highlight:
-  enable: true
+  enable: false
   list:
    - heading: "best industry leaders"
      icon: "fa-trophy"
