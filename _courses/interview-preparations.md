@@ -1,6 +1,6 @@
 ---
 title: Interview Preparations
-headerImage: /assets/images/gurukul/team-students.jpg
+headerImage: /assets/images/gurukul/top-home-bg-new.jpg
 permalink: "interview-preparations"
 layout: "course"
 info: "Visa interview is an important step prior to the final confirmation of student visa or tourist visa approval for most countries including Australia, Canada, Germany, New Zealand, UK and USA. Your interview could speed up or delay your visa processing. Therefore, it is crucial that you prepare for the interview and address all concerns of the visa officer. "
@@ -20,7 +20,7 @@ footer-form:
   enable: false
 ---
 
-![CELPIP)](assets/images/gurukul/interview.jpg)
+![CELPIP)](assets/images/gurukul/goodgradesar.jpg)
 {:.mb-40}
 
 Visa interview is an important step prior to the final confirmation of student visa or tourist visa approval for most countries including Australia, Canada, Germany, New Zealand, UK and USA. Your interview could speed up or delay your visa processing. Therefore, it is crucial that you prepare for the interview and address all concerns of the visa officer. 

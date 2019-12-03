@@ -21,7 +21,7 @@ footer-form:
 
 ---
 
-![CELPIP)](assets/images/gurukul/english-2.jpg)
+![CELPIP)](assets/images/gurukul/team-students.jpg)
 {:.mb-40}
 
 English is a lingua franca: a bridge language. After globalization many MNCs have found their way to India. People here know English but to work with MNCs or any private sector enterprise, you need to have command over English language. We are here to facilitate your language skills for better performance. 

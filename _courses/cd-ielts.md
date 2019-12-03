@@ -1,7 +1,7 @@
 ---
 title: Computer-delivered IELTS (CD IELTS)
 headline: Zebras are the best!
-headerImage: /assets/images/gurukul/3.jpg
+headerImage: /assets/images/gurukul/students-life-spain.jpg
 permalink: "cd-ielts"
 layout: "course"
 info: "Gurukul International is the one of the best institute for CD IELTS Coaching in Tricity. We provide both ONLINE & CLASSROOM Programmes for CD IELTS & CELPIP. Trainers at Gurukul International are Certified and most Experienced."
@@ -21,7 +21,7 @@ footer-form:
   enable: false
 ---
 
-![Computer-delivered IELTS (CD IELTS)](assets/images/gurukul/4.jpg)
+![Computer-delivered IELTS (CD IELTS)](assets/images/gurukul/ielts-img.jpeg)
 {:.mb-40}
 
 Gurukul International is the one of the best institute for CD IELTS Coaching in Tricity. We provide both ONLINE & CLASSROOM Programmes for CD IELTS & CELPIP. Trainers at Gurukul International are Certified and most Experienced.

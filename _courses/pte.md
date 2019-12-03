@@ -1,8 +1,9 @@
 ---
 title: About PTE (Pearson Test for English)
-headerImage: /assets/images/gurukul/6.jpg
+headerImage: /assets/images/gurukul/pte_Celpic-2.jpg
 permalink: "pte"
 layout: "course"
+showOnHome: true
 info: "Gurukul international is a specialist in providing PTE training where we focus on strategic sessions to help students crack this exam with a high score. There are well scheduled classes for the students to understand the test scenario and the each type of questions so that students can excel in their exam."
 why:
   enable: false
@@ -20,7 +21,7 @@ footer-form:
   enable: false
 ---
 
-![CELPIP)](assets/images/gurukul/5.jpg)
+![CELPIP)](assets/images/gurukul/pte_celcpi.jpg)
 {:.mb-40}
 
 Gurukul international is a specialist in providing PTE training where we focus on strategic sessions to help students crack this exam with a high score. There are well scheduled classes for the students to understand the test scenario and the each type of questions so that students can excel in their exam. We are a valued partner with PEARSON and having a highly experienced and certified faculties.

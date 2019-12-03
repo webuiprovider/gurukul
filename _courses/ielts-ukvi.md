@@ -1,6 +1,6 @@
 ---
 title: IELTS UKVI
-headerImage: /assets/images/gurukul/2.jpg
+headerImage: /assets/images/gurukul/hei_-_option_4.jpg
 permalink: "ielts-ukvi"
 layout: "course"
 info: "'IELTS for UKVI' is a UK government approved Secure English Language Test (SELT). This means that IELTS can be used to prove your English language abilities in support of a UK Visa and Immigration (UKVI) application. For many categories of visa, you must submit an English language qualification which is included on the UK Home Office's list of Secure English Language Tests (SELT tests)."
@@ -20,7 +20,7 @@ footer-form:
   enable: false
 ---
 
-![CELPIP)](assets/images/gurukul/7.jpg)
+![CELPIP)](assets/images/gurukul/students-standing-with-open-books-looking-camera_23-2148166405.jpg)
 {:.mb-40}
 
 # IELTS FOR UKVI

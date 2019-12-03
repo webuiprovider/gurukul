@@ -1,8 +1,9 @@
 ---
 title: IELTS
-headerImage: /assets/images/gurukul/3.jpg
+headerImage: /assets/images/gurukul/ielts-img.jpeg
 permalink: "ielts"
 layout: "course"
+showOnHome: true
 info: "Basically IELTS defines as the **International English Language Testing System**. IELTS is a best course for improving your communication skills like: Listening, Speaking, Reading, Writing. **IELTS** is primarily managed by the University of Cambridge ESOL Examinations (Cambridge ESOL), British Council and IDP: IELTS Australia."
 why:
   enable: false
@@ -20,7 +21,7 @@ footer-form:
   enable: false
 ---
 
-![CELPIP)](assets/images/gurukul/7.jpg)
+![CELPIP)](assets/images/gurukul/students-life-spain.jpg)
 {:.mb-40}
 
 Basically IELTS defines as the **International English Language Testing System**. IELTS is a best course for improving your communication skills like: Listening, Speaking, Reading, Writing. **IELTS** is primarily managed by the University of Cambridge ESOL Examinations (Cambridge ESOL), British Council and IDP: IELTS Australia.
