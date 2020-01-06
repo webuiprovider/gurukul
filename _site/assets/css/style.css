@@ -1188,8 +1188,18 @@ form label.error {
 }
 .logo a {
 	display: inline-block;
-	padding: 26px 0;
+	padding: 26px 0;	
+	font-size:42px;
 }
+.logo a img{
+	float:left;
+}
+.logo a strong em {font-size: 24px;
+    /* font-weight: 400; */
+    color: #5a4a42;
+	display:block;
+	line-height:1.8em;
+	}
 .header-1 .logo a {
 	display: inline-block;
 	padding: 26px 0 20px;
@@ -1698,6 +1708,7 @@ form label.error {
 }
 .logo a {
 	padding: 29px 0px ;
+	font-size:42px;
 }
 .header-1 .logo a {
 	padding: 26px 0 20px ;
@@ -10897,6 +10908,34 @@ input[type="text"].search__input {
     transition: 0.5s all;
     min-height: 50px;
 }
+
+.top-info__block li ul li{
+	display:block;
+}
+.top-info__block li ul li i{
+	font-size:17px;
+}
+.top-info__block li ul li i.fa-whatsapp{
+	color:#8cc63f
+}
+.top-info__block li ul li i.fa-phone{
+	color:#ea5409
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width:767px){
 	input[type="text"].search__input{
 		    border-radius: 22px;

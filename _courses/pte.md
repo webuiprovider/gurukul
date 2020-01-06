@@ -1,5 +1,5 @@
 ---
-title: About PTE (Pearson Test for English)
+title: PTE (Pearson Test of English)
 headerImage: /assets/images/gurukul/pte_Celpic-2.jpg
 permalink: "pte"
 layout: "course"
@@ -26,7 +26,7 @@ footer-form:
 
 Gurukul international is a specialist in providing PTE training where we focus on strategic sessions to help students crack this exam with a high score. There are well scheduled classes for the students to understand the test scenario and the each type of questions so that students can excel in their exam. We are a valued partner with PEARSON and having a highly experienced and certified faculties.
 
-PTE stands for Pearson Test for English. It is a computer-based academic English language test aimed for non-native English speakers who want to study or immigrate abroad.
+PTE stands for Pearson Test of English. It is a computer-based academic English language test aimed for non-native English speakers who want to study or immigrate abroad.
 
 During the three-hour test session, there will be three main parts to the test: speaking and writing (together), reading and listening. There are twenty different question formats, ranging from multiple choice through to essay writing and interpreting information.
 
