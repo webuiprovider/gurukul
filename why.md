@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: Why US
+title: Why US ?
 headerImage: /assets/images/gurukul/inner.jpg
 permalink: /why/
 why:
@@ -19,7 +19,7 @@ footer-form:
   enable: false
 ---
 
-## WHY <span>GURUKUL</span> INTERNATIONAL
+## WHY <span>GURUKUL</span> INTERNATIONAL ?
 
 **Gurukul International** is the institute which is best of its kind, offering comprehensive classroom preparation programs for tests such as IELTS, PTE, CELPIP, CD-IELTS and TOEFL. We employ various productive strategies of coaching like “Efficient Strategies Session” to give our students the best training they need.
 
