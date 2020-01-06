@@ -1,20 +1,20 @@
 facebook:
-  id: 'your-facebook-username'
+  id: 'Gurukulinternationalmohali'
   href: 'https://www.facebook.com/'
   title: 'Facebook'
   fa-icon: 'fa-facebook'
 
 
 instagram:
-  id: 'your-linkedin-name'
+  id: 'gurukul.international'
   href: 'https://www.instagram.com/'
   title: 'instagram'
   fa-icon: 'fa-instagram'
 
 
 google:
-  id: 'your-google-name'
-  href: 'https://www.twitter.com/'
+  id: ''
+  href: 'https://www.google.com/search?safe=active&q=gurukul+international&npsic=0&rflfq=1&rlha=0&rllag=29048224,77164880,48471&tbm=lcl&ved=2ahUKEwj8xp-Ju-7mAhXJH7cAHSwtACwQjGp6BAgKECs&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!2m1!1e3!3sIAE,lf:1,lf_ui:4&rldoc=1#rlfi=hd:;si:8648339838856513846,l,ChVndXJ1a3VsIGludGVybmF0aW9uYWwiA4gBAQ;mv:[[31.2285273,79.7342793],[27.7060465,74.7268799]]'
   title: 'google'
   fa-icon: 'fa-google-plus'
 
