@@ -77,9 +77,6 @@ navigations:
   title: "Gallery"
   url: "gallery/"
  - 
-  title: "BLOG"
-  url: "blog/"
- - 
   title: "Contact Us"
   url: "contact/"
 
