@@ -10922,6 +10922,17 @@ input[type="text"].search__input {
 	color:#ea5409
 }
 
+.footer__block-logo{
+	width:auto;
+	max-width: 100% !important;
+	color:#fff;
+}
+.footer__block-logo  img{
+	max-width:100px;
+}
+.plan-content-box{
+	min-height:320px;
+}
 
 
 
