@@ -4,7 +4,7 @@ headerImage: /assets/images/gurukul/pte_Celpic-2.jpg
 permalink: "pte"
 layout: "course"
 showOnHome: true
-weight: 1
+weight: 2
 info: "Gurukul international is a specialist in providing PTE training where we focus on strategic sessions to help students crack this exam with a high score. There are well scheduled classes for the students to understand the test scenario and the each type of questions so that students can excel in their exam."
 why:
   enable: false

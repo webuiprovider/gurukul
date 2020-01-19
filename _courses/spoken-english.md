@@ -3,6 +3,7 @@ title: Spoken English
 headerImage: /assets/images/gurukul/english.jpg
 permalink: "spoken-english"
 layout: "course"
+weight: 7
 info: "English is a lingua franca: a bridge language. After globalization many MNCs have found their way to India. People here know English but to work with MNCs or any private sector enterprise, you need to have command over English language. We are here to facilitate your language skills for better performance. "
 why:
   enable: false
