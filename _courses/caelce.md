@@ -38,7 +38,6 @@ CAEL CE is one of the best tools for identifying students with the right English
 - **Computer-Delivered**   Done in just one sitting and includes features such as a personal timer and word counter
 - **Acceptance Across Canada** Accepted by over 180 Canadian universities and colleges, including all English-speaking institutions
 - **Quick Online Results** Available online in 8 business days, sent to 5 institutions at no extra cost
-- **Convenient Study Materials** Free sample tests, pretest sittings, webinars, prep programs, and online courses
 
 ## Test Scores
 
