@@ -28,6 +28,8 @@ Visa interview is an important step prior to the final confirmation of student v
 
 The interview is taken by the ambassador or visa officer who may ask you a range of questions mainly to ensure that your application case is genuine and your intentions align with what is being written in the application form. The officer is a trained professional, who could ask multiple unrelated questions, not to annoy you but to know your real interests and objectives. If you are prepared, you can enjoy this process and meeting with someone who opens the door of a new country for you.
 
+We at Gurukul International help you to prepare for your visa interview so that you can crack it easily to get your visa. Even our experts guide you through with some of the most oftenly asked questions during the interview so that you may pre-prepare those to deliver better answers during the actual interview.
+
 
 
 
