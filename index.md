@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuruKul Intenational
+title: Gurukul International
 meta: "IELTS PTE CELPIP Education for study Abroad and PR"
 description: "IELTS PTE CELPIP Education for study Abroad and PR"
 slider:
